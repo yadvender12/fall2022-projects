@@ -11,12 +11,7 @@ Files:
 	--unet_resnet34_final.py
 	--unet_resnet50_final.py
 
-
-
-2.50466664_Final_Report.pdf
-	The Project Report
-
-3. The folders "pspnet_resnet101", "unet_resnet34", "unet_resnet50" and "deeplabv3plus_pretrained"
+2. The folders "pspnet_resnet101", "unet_resnet34", "unet_resnet50" and "deeplabv3plus_pretrained"
    contain the code for different models that were used for this project.
    All these folders contain the predicted masks of Night and Day images of custom dataset 
    in NightPred and DayPred folder
